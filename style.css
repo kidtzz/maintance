@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+.header {
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
